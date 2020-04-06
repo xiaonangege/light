@@ -8,11 +8,7 @@
         "php": ">=5.6.4",
         "laravel/lumen-framework": "5.4.*",
         "vlucas/phpdotenv": "~2.2",
-        "illuminate/cookie": "^5.4",
-        "guzzlehttp/guzzle": "^6.3",
-        "illuminate/mail": "^5.4",
-        "qiniu/php-sdk": "^7.2",
-        "phpoffice/phpspreadsheet": "^1.8"
+        "illuminate/cookie": "^5.4"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
